@@ -1,0 +1,7 @@
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.pdb
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.pdb

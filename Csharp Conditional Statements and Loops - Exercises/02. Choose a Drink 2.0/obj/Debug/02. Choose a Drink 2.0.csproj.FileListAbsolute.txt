@@ -1,0 +1,5 @@
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe.config
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.pdb
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.exe
+D:\СофтУни\Csharp Conditional Statements and Loops - Exercises\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.pdb

@@ -1,0 +1,6 @@
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.pdb
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\obj\Debug\09. Count the Integers.csprojResolveAssemblyReference.cache
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\obj\Debug\_09.Count_the_Integers.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\09. Count the Integers\obj\Debug\_09.Count_the_Integers.pdb

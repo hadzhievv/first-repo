@@ -1,0 +1,6 @@
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\10. Triangle of Numbers.csprojResolveAssemblyReference.cache
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb

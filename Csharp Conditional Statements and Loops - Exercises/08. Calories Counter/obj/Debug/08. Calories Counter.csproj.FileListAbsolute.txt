@@ -1,0 +1,5 @@
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.pdb
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\08. Calories Counter\obj\Debug\_08.Calories_Counter.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\08. Calories Counter\obj\Debug\_08.Calories_Counter.pdb

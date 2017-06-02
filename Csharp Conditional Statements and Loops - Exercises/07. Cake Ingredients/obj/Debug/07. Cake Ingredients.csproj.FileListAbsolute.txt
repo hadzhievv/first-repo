@@ -1,0 +1,5 @@
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+D:\СофтУни\Programming Fundamentals - май 2017\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb
